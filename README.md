@@ -10,6 +10,7 @@ Numpy
 Pandas
 Matplotlib
 Scikit-Learn
+Notebook IDE
 
 
 
